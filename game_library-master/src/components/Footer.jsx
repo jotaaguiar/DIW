@@ -54,10 +54,9 @@ export default function Footer() {
         <Box className="box-width">
           <h3>About Us</h3>
           <p style={{ textAlign: 'center' }}>
-            Game Library is a React project-based using the CSS framework
-            Material UI.
+            Game Library is a React project-based using the CSS,Js, HTML e RAWG .
             <br /> Made by Front End Developers for a group project during an
-            intensive Web Development Bootcamp.
+             Diw
           </p>
         </Box>
       </Grid>
